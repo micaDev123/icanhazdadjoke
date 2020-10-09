@@ -1,0 +1,118 @@
+// COMMON
+$white: #ffffff;
+$white-2: #f5f6fa;
+$white-3: #f6f6f6;
+$white-4: #f1f2f4;
+$white-5: #f0f2f7;
+$white-6: #e4e5ec;
+$white-7: #a8a9b4;
+$white-8: #949494;
+$white-9: #fafafa;
+$white-10: #fefefe;
+$white-11: #f4f8fb;
+$white-shadow-color: rgba(52, 56, 75, 0.08);
+
+// PRIMARY COLORS
+$primary-charcoal: #343a5c; // Gulf Blue
+$primary-charcoal-2: #34384b; // Gulf Blue
+$primary-charcoal-3: #282b3e;
+$primary-purple: #753bbd; // Purple Heart
+$primary-purple-2: #783dbd;
+$primary-purple-3: #b99cde;
+$primary-purple-4: #3e1f97;
+$primary-purple-5: #6b1386;
+$primary-navy: #2e4491;
+$primary-navy-2: #141b43;
+$primary-orange: #f78134; // Sun
+$primary-yellow: #fef200;
+
+// SECONDARY COLORS
+$secondary-light-blue: #418fde; // Summer Sky
+$secondary-light-blue-2: #9fc7ee; // Summer Sky
+$secondary-blue: #0f9aaf; // Bondi Blue
+$secondary-blue-2: #86ccd7; // Bondi Blue
+$secondary-green: #00aa59; // Pigment Green
+$secondary-green-2: #7fd4ab; // Pigment Green
+$secondary-red: #ee3b34; // Cinnabar
+$secondary-red-2: #f69c99; // Cinnabar
+$secondary-yellow: #f8e71c;
+$secondary-navy: #3b88f5;
+$secondary-navy-3: #667bc4;
+
+// TEXT COLORS
+$text-white: $white;
+$text-black: $primary-charcoal-2;
+$text-red: $secondary-red;
+$text-green: $secondary-green;
+$text-blue: $secondary-blue;
+$text-purple: $primary-purple;
+$text-navy: $primary-navy;
+$text-orange: $primary-orange;
+$text-gray-1: #8f8f8f;
+
+// BUTTON COLORS
+$button-white: $white;
+$button-white-2: $white-2;
+$button-white-3: $white-5;
+$button-white-4: $white-6;
+$button-white-5: $white-7;
+
+$button-navy: $primary-navy;
+$button-navy-2: #263878;
+$button-navy-3: #3172cc;
+
+$button-charcoal: $primary-charcoal;
+$button-charcoal-2: $primary-charcoal-2;
+$button-charcoal-3: $primary-charcoal-3;
+
+$button-blue: $secondary-blue;
+$button-blue-2: #0e8496;
+
+$button-green: $secondary-green;
+$button-green-2: #00914b;
+
+$button-orange: $primary-orange;
+$button-orange-2: #de752f;
+
+$button-red: #d4342f;
+$button-yellow: #decd18;
+
+// BACKGROUND COLORS
+$background-white: $white;
+$background-white-2: $white-3;
+$background-white-3: $white-4;
+$background-white-4: $white-6;
+
+$background-charcoal: $primary-charcoal;
+$background-purple: $primary-purple;
+$background-blue: $secondary-blue;
+$background-navy: $primary-navy;
+$background-green: $secondary-green;
+$background-orange: $primary-orange;
+
+// LINE COLORS
+$line-red: $secondary-red;
+$line-blue: $secondary-blue;
+$line-navy: $primary-navy;
+$line-green: $secondary-green;
+$line-orange: $primary-orange;
+$line-charcoal: $primary-charcoal-3;
+$line-purple: $primary-purple;
+
+// GRAPH COLORS
+$graph-red: $secondary-red-2;
+$graph-light-blue: $secondary-light-blue-2;
+$graph-blue: $secondary-blue-2;
+$graph-purple: $primary-purple-2;
+$graph-green: $secondary-green-2;
+
+// TRANSPARENT COLORS
+
+// ORANGE
+$orange-trans-1: rgba(247, 129, 52, 0.1);
+// BLUE
+$blue-trans-1: rgba(15, 154, 175, 0.1);
+// GREEN
+$green-trans-1: rgba(0, 183, 71, 0.1);
+// RED
+$red-trans-1: rgba(238, 59, 52, 0.1);
