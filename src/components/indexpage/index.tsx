@@ -17,7 +17,7 @@ const IndexPage = (props: IndexPageProps) => {
             </Header>
             <Content>
                 <Route 
-                 render={({ location }) => (
+                render={({ location }) => (
                     <Switch location={location}>
                     <Redirect exact path={INDEX_PAGE} to={HOME_PAGE} />
                     <Route exact path={HOME_PAGE} component={HomePage} />

@@ -1,14 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import IndexPage from './components/indexpage';
 import {
   BrowserRouter as Router,
   Route,
   Switch,
-  Redirect,
 } from 'react-router-dom';
 
-import {HOME_PAGE, INDEX_PAGE} from './utils/urls';
+import {INDEX_PAGE} from './utils/urls';
 
 function App() {
   return (
