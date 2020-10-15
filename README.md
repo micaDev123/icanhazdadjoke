@@ -6,8 +6,8 @@ This is I can haz dad joke API Exam project
 <br/>
 About the project<br/>
 <br/>
-#This basic web application is to generate a jokes from an API which is https://icanhazdadjoke.com/api <br/>
-#I use react js + redux-thunk and material-react for the user interface. </br>
+This basic web application is to generate a jokes from an API which is https://icanhazdadjoke.com/api <br/>
+I use react js + redux-thunk and material-react for the user interface. </br>
 </br>
 #Here is the avaialble API for icanhazdadjoke<br/>
 <br/>
