@@ -1,11 +1,11 @@
-This is I can haz dad joke API Exam project
+<h1>This is I can haz dad joke API Exam project</h1>
 
 1. Clone the project using git clone url
 2. First is open your terminal and go to your project directory and type this on your cmd or terminal ##npm install or yarn install
 3. run the project using npm start or yarn start.
 <br/>
 <br/>
-About the project<br/>
+<h2>About the project </h2><br/>
 <br/>
 This basic web application is to generate a jokes from an API which is https://icanhazdadjoke.com/api <br/>
 I use react js + redux-thunk and material-react for the user interface. </br>
