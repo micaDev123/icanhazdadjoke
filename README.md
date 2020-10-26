@@ -5,7 +5,7 @@
 3. run the project using npm start or yarn start.
 <br/>
 <br/>
-<h2>About the project </h2><br/>
+<h1>About the project </h1><br/>
 <br/>
 This basic web application is to generate a jokes from an API which is https://icanhazdadjoke.com/api <br/>
 I use react js + redux-thunk and material-react for the user interface. </br>
