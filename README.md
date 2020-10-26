@@ -14,13 +14,15 @@ I use react js + redux-thunk and material-react for the user interface. </br>
 Fetch
 GET https://icanhazdadjoke.com/
 <br/>
-Fetching a random joke as JSON:
+<h1>Fetching a random joke as JSON:</h1>
 <br/>
 $ curl -H "Accept: application/json" https://icanhazdadjoke.com/ <br/>
 {<br/>
+<br/>
   "id": "R7UfaahVfFd",<br/>
   "joke": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",<br/>
   "status": 200<br/>
+  <br/>
 }
 
 Fetch a dad joke
@@ -29,8 +31,10 @@ GET https://icanhazdadjoke.com/j/<joke_id> fetch a specific dad joke.<br/>
 Fetching a joke as JSON:<br/>
 
 $ curl -H "Accept: application/json" https://icanhazdadjoke.com/j/R7UfaahVfFd<br/>
-{<br/>
+{
+<br/>
   "id": "R7UfaahVfFd",<br/>
   "joke": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",<br/>
   "status": 200<br/>
+  <br/>
 }
