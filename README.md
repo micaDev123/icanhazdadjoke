@@ -2,7 +2,7 @@ This is I can haz dad joke API Exam project
 
 1. Clone the project using git clone url
 2. First is open your terminal and go to your project directory and type this on your cmd or terminal ##npm install or yarn install
-3. run the project using npm start or yanr start.
+3. run the project using npm start or yarn start.
 <br/>
 About the project<br/>
 <br/>
