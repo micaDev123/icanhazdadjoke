@@ -1,23 +1,4 @@
-<h1>Joke Generator using Markov Chain</h1>
-
-Fetch a dad joke
-GET https://icanhazdadjoke.com/j/<joke_id> fetch a specific dad joke.<br/>
-
-Fetching a joke as JSON:<br/>
-<br/>
-$ curl -H "Accept: application/json" https://icanhazdadjoke.com/j/R7UfaahVfFd<br/>
-{ <br/>
-<br>
-  "id": "R7UfaahVfFd",<br/>
-  "joke": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",<br/>
-  "status": 200<br/>
-  <br/>
-}
-
 ## <h1>Getting Started</h1>
-
-### Local Installation
-Follow these steps to dadjoke heaven:
 1. Clone this GitHub repo in the directory of your choice (`git clone https://github.com/KarlaJeanNelson/markov-dad-jokes.git` or `git clone git@github.com:KarlaJeanNelson/markov-dad-jokes.git`).
 2. Navigate into the cloned directory (`cd markov-dad-jokes`).
 3. Install dependencies (`npm install` or `yarn`).
@@ -29,9 +10,7 @@ Follow these steps to dadjoke heaven:
 This project was created with [React-redux](https://react-redux.js.org/).
 
 ## Dad Joke Generator using markov chain
-Generate hilarious dad jokes using [Markov chains](https://en.wikipedia.org/wiki/Markov_chain)! The generator is seeded with jokes fetched from the wonderful and illustrious [icanhazdadjoke API](https://icanhazdadjoke.com/api).
-
-
+Generate hilarious dad jokes using [Markov chains](https://en.wikipedia.org/wiki/Markov_chain)! The generator is fetched from  [icanhazdadjoke API](https://icanhazdadjoke.com/api).
 
 ### Prerequisites
 To run locally, the following applications must be installed:
