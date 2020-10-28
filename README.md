@@ -1,4 +1,4 @@
-<h1>This is I can haz dad joke API Exam project</h1>
+<h1>Joke Generator using Markov Chain</h1>
 
 1. Clone the project using git clone url
 2. First is open your terminal and go to your project directory and type this on your cmd or terminal ##npm install or yarn install
